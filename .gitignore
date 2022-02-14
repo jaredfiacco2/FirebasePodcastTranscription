@@ -1,3 +1,4 @@
 archive/
 __pycache__/
 darknetdiaries-firebase-adminsdk-cmlo5-0476cd885a.json
+loadToFirebase.py
